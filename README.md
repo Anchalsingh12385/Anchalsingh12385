@@ -3,9 +3,7 @@
 
 <img align="right" alt="coding" width="400" src="https://media1.tenor.com/m/QVC1Nmb9TwUAAAAC/coding.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anchalsingh12385&label=Profile%20views&color=0e75b6&style=flat" alt="anchalsingh12385" /> </p>
-
-- 🌱 I’m currently learning **MongoDB**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anchalsingh12385&label=Profile%20views&color=0e75b6&style=flat" alt="anchalsingh12385" /> 
 
 - 📫 How to reach me **sa3873204@gmail.com**
 
